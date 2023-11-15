@@ -4,174 +4,199 @@
         "Nombre": "Pizza",
         "Precio": 2000,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "2",
         "Nombre": "Hamburguesa",
         "Precio": 1500,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "3",
         "Nombre": "Sushi",
         "Precio": 2500,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "4",
         "Nombre": "Ensalada César",
         "Precio": 1200,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "5",
         "Nombre": "Tacos de Carnitas",
         "Precio": 1800,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "6",
         "Nombre": "Pasta Alfredo",
         "Precio": 1600,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "7",
         "Nombre": "Pollo a la Parrilla",
         "Precio": 1700,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "8",
         "Nombre": "Ramen",
         "Precio": 2000,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "9",
         "Nombre": "Burritos",
         "Precio": 1900,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "10",
         "Nombre": "Paella",
         "Precio": 2200,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "11",
         "Nombre": "Filete Mignon",
         "Precio": 2800,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "12",
         "Nombre": "Sopa de Tomate",
         "Precio": 1100,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "13",
         "Nombre": "Fish and Chips",
         "Precio": 1700,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "14",
         "Nombre": "Ceviche",
         "Precio": 2100,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "15",
         "Nombre": "Calzone",
         "Precio": 1900,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "16",
         "Nombre": "Pollo Tikka Masala",
         "Precio": 2000,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "17",
         "Nombre": "Gyozas",
         "Precio": 1500,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "18",
         "Nombre": "Antipasto",
         "Precio": 1600,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "19",
         "Nombre": "Lasagna",
         "Precio": 2200,
         "idCategoria": "tradicional",
-        "Tipo": "plato"
+        "Tipo": "plato",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "20",
         "Nombre": "Tiramisú",
         "Precio": 1200,
         "idCategoria": "postre",
-        "Tipo": "postre"
+        "Tipo": "postre",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "21",
         "Nombre": "Café Latte",
         "Precio": 300,
         "idCategoria": "tradicional",
-        "Tipo": "bebida"
+        "Tipo": "bebida",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "22",
         "Nombre": "Smoothie de Frutas",
         "Precio": 250,
         "idCategoria": "vegano",
-        "Tipo": "bebida"
+        "Tipo": "bebida",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "23",
         "Nombre": "Agua Mineral",
         "Precio": 100,
         "idCategoria": "tradicional",
-        "Tipo": "bebida"
+        "Tipo": "bebida",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "24",
         "Nombre": "Pastel de Chocolate",
         "Precio": 1800,
         "idCategoria": "tradicional",
-        "Tipo": "postre"
+        "Tipo": "postre",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     },
     {
         "idMenu": "25",
         "Nombre": "Helado Vegano",
         "Precio": 1200,
         "idCategoria": "vegano",
-        "Tipo": "postre"
+        "Tipo": "postre",
+        "img": "https://img.freepik.com/vector-premium/ilustracion-comida-chatarra-dibujos-animados-lindo_403370-23.jpg?w=740"
     }
 ]
